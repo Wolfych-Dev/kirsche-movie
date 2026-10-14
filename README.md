@@ -2,6 +2,8 @@
 Desktop video editor. Single AppImage.
 
 Seven pages modeled after DaVinci Resolve: Media, Cut, Edit, Color, Fusion, Fairlight, Deliver. Built on Electron with WebCodecs, WebGL2, and WebAudio under the hood. Export up to 8K.
+## Site
+https://wolfych-dev.github.io/kirsche-movie/
 
 ## Features
 
