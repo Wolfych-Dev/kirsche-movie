@@ -1,9 +1,12 @@
-## Kirsche Movie
+### Kirsche Movie
 Desktop video editor. Single AppImage.
 
 Seven pages modeled after DaVinci Resolve: Media, Cut, Edit, Color, Fusion, Fairlight, Deliver. Built on Electron with WebCodecs, WebGL2, and WebAudio under the hood. Export up to 8K.
-## Site
+### Site
 https://wolfych-dev.github.io/kirsche-movie/
+
+### AppImage
+[![Download AppImage](https://img.shields.io/badge/Download-AppImage-e8613c?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/Wolfych-Dev/kirsche-movie/releases/latest/download/kirsche-movie.AppImage)
 
 ## Features
 
